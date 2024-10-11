@@ -14,4 +14,5 @@
 - Milestones.
 
 ## Review
-- 10/11/24: Sent draft pull request to get feedback.
+
+- 10/11/24: Sent [comment](https://github.com/Avaiga/taipy/issues/1716#issuecomment-2407199775) including link to my draft pull request and questions regarding what to include in testing documentation.
