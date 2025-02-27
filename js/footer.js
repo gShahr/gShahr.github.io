@@ -4,7 +4,7 @@ function insertFooter() {
         <p>&copy; <span id="current-year"></span> Theriatric. All rights reserved.</p>
         <div id="socials">
             <a href="https://github.com/gShahr" target="_blank">GitHub</a> |
-            <a href="https://x.com/Gabriel1858327" target="_blank">Twitter</a> |
+            <a href="https://x.com/Theriatric" target="_blank">Twitter</a> |
             <a href="https://stackoverflow.com/users/29703406/theriatric" target="_blank">Stack Overflow</a> |
             <a href="https://www.linkedin.com/in/gabriel-s-902134197/" target="_blank">LinkedIn</a>
         </div>
