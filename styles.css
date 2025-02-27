@@ -68,3 +68,31 @@ h2:after {
   margin-left: 5px;
   animation: blink 1s step-end infinite;
 } */
+
+/* Hobbies Page Styles */
+.hobby-section {
+  border-left: 2px solid #33FF33;
+  margin-left: 10px;
+  padding-left: 15px;
+  margin-bottom: 25px;
+}
+
+.hobby-section h3 {
+  margin-top: 0;
+}
+
+/* Fix the bullet list in hobbies */
+#hobbies li {
+  margin-bottom: 15px;
+}
+
+/* Make the links stand out a bit more */
+a.highlight {
+  border-bottom: 2px solid #33FF33;
+  padding-bottom: 2px;
+}
+
+a.highlight:hover {
+  background-color: #33FF33;
+  color: #000;
+}
