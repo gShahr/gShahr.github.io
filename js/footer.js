@@ -5,11 +5,11 @@ function insertFooter() {
         <div id="socials">
             <a href="https://github.com/gShahr" target="_blank">GitHub</a> |
             <a href="https://x.com/Theriatric" target="_blank">Twitter</a> |
-            <a href="https://stackoverflow.com/users/29703406/theriatric" target="_blank">Stack Overflow</a> |
-            <a href="https://www.linkedin.com/in/gabriel-s-902134197/" target="_blank">LinkedIn</a>
+            <a href="https://stackoverflow.com/users/29703406/theriatric" target="_blank">Stack Overflow</a>
         </div>
     </footer>
     `;
+    // <a href="https://www.linkedin.com/in/gabriel-s-902134197/" target="_blank">LinkedIn</a>
     
     // Insert the footer HTML
     document.body.insertAdjacentHTML('beforeend', footerHtml);
