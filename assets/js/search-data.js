@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-academic-activities",
-          title: "Academic activities",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/academicactivities/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -445,7 +438,7 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/gshahrouzi.html", "_blank");
+          window.open("https://arxiv.org/a/shahrouzi_g_1.html", "_blank");
         },
       },{
       id: 'light-theme',
