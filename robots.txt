@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gshahr.github.io//sitemap.xml
