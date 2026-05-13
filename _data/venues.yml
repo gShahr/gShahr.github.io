@@ -1,0 +1,15 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"Conference":
+  color: "#b62b5c"
+
+"Journal":
+  color: "#d6b162"
+
+"Workshop":
+  color: "#4e5c66"
+
+"Preprint":
+  color: "#839958"
