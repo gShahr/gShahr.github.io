@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: cr.jpg
+  image: potrait-photo.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
